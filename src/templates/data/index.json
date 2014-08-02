@@ -1,0 +1,20 @@
+{
+	"title" : "Index",
+	"css":[
+		{
+			"rel":"stylesheet",
+			"href":"css/example.css"
+		}
+	],
+
+	"js": [
+		{ 
+			"type": "text/javascript" ,
+		 	"src" : "js/vendor/example.js" 
+		}
+	]
+
+	
+
+	
+}

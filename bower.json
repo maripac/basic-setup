@@ -1,0 +1,11 @@
+{
+  "name": "standard-setap",
+  "version": "0.0.0",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1"
+  },
+  "devDependencies": {
+    "holderjs": "~2.3.2"
+  }
+}
