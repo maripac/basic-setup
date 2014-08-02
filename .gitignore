@@ -2,7 +2,7 @@ node_modules
 build
 .tmp
 .sass-cache
-src/bower_components/bootstrap
+src/bower_components/bootstrap/node_modules
 src/bower_components/holderjs
 src/bower_components/jquery
 src/bower_components/modernizr
