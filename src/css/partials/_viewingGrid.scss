@@ -1,0 +1,23 @@
+.Content{
+    & > div{
+        background-color: #5555ff;
+        color:#fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        
+    }
+    & > div + div{
+        background-color: #00ffff;
+        color:#fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        
+    }
+    & > div + div + div{
+        background-color: #ff00ff;
+        color:#fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        
+    }
+}
